@@ -29,7 +29,7 @@
 
 - 👨‍💻 I'm currently working full-time at **Squadra Tecnologia**.
 - 🌱 Learning more about and studying: **C#, .NET CORE, Machine Learning, Python, DevOps**.
-- 💙 Interests: games 👾, cats (Loki 🐱).
+- 💙 Interests: :heavy_dollar_sign: finance, investments, :computer: machine learning, artificial intelligence
 
 ### Languages and Tools
 
