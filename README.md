@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="280" src="signature.png" />
+    <img align="center" width="280" src="signature-sostenes.png" />
   </a>
   <a href="#">
     <img align="center" width="510" src="banner.gif" />
