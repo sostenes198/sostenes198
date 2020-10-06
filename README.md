@@ -67,7 +67,7 @@
       width="40"
       height="40"
     />
-  </a>  
+  </a>   
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"
@@ -78,8 +78,48 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
       alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+      alt="javascript"
       width="40"
       height="40"
     />
