@@ -36,18 +36,18 @@
 <br/>
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
-      alt="aws"
+      alt="c#"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://dotnet.microsoft.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"
-      alt="docker"
+      alt="dotnet"
       width="40"
       height="40"
     />
@@ -60,34 +60,34 @@
       height="40"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-      alt="docker"
+      alt="git"
       width="40"
       height="40"
     />
   </a>   
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://about.gitlab.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"
-      alt="docker"
+      alt="gitlab"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.python.org/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-      alt="docker"
+      alt="python"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.rabbitmq.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-      alt="docker"
+      alt="rabbitmq"
       width="40"
       height="40"
     />
@@ -100,26 +100,26 @@
       height="40"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://nodejs.org/en/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
-      alt="javascript"
+      alt="nodejs"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-      alt="javascript"
+      alt="HTML5"
       width="40"
       height="40"
     />
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Archive/CSS3" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-      alt="javascript"
+      alt="css3"
       width="40"
       height="40"
     />
